@@ -1,1 +1,2 @@
-# woodblock-labs
+# Woodblock Labs 🌊
+Tinkering on the frontier of blockchain architecture
